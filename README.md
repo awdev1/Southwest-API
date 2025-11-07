@@ -28,7 +28,7 @@ Nominated for “Best Technology” by PTC News/Awards, acknowledging innovation
 ## Background
 
 This project was **originally developed by awdev** as part of Southwest PTFS's new website.  
-While it was later transferred to a GitHub organization ONLY for collaboration, **all commits, architecture, and implementation were authored independently by awdev** unless otherwise stated in the commit history.  
+While it was later transferred to a GitHub organization ONLY for collaboration, **all commits, architecture, and implementation were authored independently by awdev** unless otherwise stated.  
 
 No contractual or LEGALLY FILED employment relationship existed during its initial creation which in turn makes it belong me awdev.  
 In accordance with [17 U.S.C. §201(a)](https://www.law.cornell.edu/uscode/text/17/201) and *[Community for Creative Non-Violence v. Reid*, 490 U.S. 730 (1989)](https://supreme.justia.com/cases/federal/us/490/730/)*, authorship and copyright remain with the original developer. A copyright fight did break out unfortunately and me + some other external unbiased people [concluded](https://docs.google.com/document/d/1rPgus_31sv1RmIgc2Dxi0wuxHapuj9PJYN7Iv9Shbmk/edit?tab=t.0) that I am the RIGHTFUL owner.
