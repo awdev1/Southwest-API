@@ -1,0 +1,16 @@
+services:
+  swa-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: swa-api
+    ports:
+      - "3005:3005"
+    volumes:
+      - ./data/airline.db:/data/airline.db
+      - ./logs:/logs   
+    restart: unless-stopped
+
+volumes:
+  apidata:
+
