@@ -57,3 +57,6 @@ Support will not be provided for this repository except in the case of critical 
 Independent Developer & Systems Management
 
 NOTE: 99% of the code is hand written. Nearly none are AI generated.
+
+
+<img width="994" height="678" alt="image" src="https://github.com/user-attachments/assets/81daecd8-391d-4621-96a0-e4d35eb68375" />
