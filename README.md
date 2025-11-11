@@ -1,5 +1,5 @@
 # Southwest API
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)]()
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)]()  [![Database](https://img.shields.io/badge/Database-SQLite-blue.svg)](https://www.sqlite.org/)  [![Language](https://img.shields.io/badge/Node.js-20+-green.svg)](https://nodejs.org/)  [![Docker](https://img.shields.io/badge/Docker-Enabled-blue.svg)](https://www.docker.com/)  [![Framework](https://img.shields.io/badge/Framework-Express.js-00aaee.svg)](https://expressjs.com/)
 
 A lightweight and modern API designed for the Southwest PTFS Discord Server's backend functionality.  
 Originally created and developed by me (**awdev**), this project represents a **clean and production ready implementation** of scalable API architecture with modular code design unlike most Python based APIs.
