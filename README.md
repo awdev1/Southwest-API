@@ -38,7 +38,7 @@ This repository is being publicly released to preserve transparency, recognize *
 
 ---
 
-## 📄 Legal
+## Legal
 
 This project is not intended for commercial use or for integration with airline systems, either virtually or physically.
 
@@ -49,7 +49,17 @@ Support will not be provided for this repository except in the case of critical 
 
 ---
 
-## 💬 Author
+## License
+
+This project is released as **source-available** under a proprietary license.  
+You may view and reference the code for educational or review purposes only.  
+Any form of redistribution, modification, or use — commercial or otherwise — is strictly prohibited without explicit written permission from **awdevSoftware**.
+
+For permission requests, contact awdevSoftware directly.
+
+---
+
+## Author
 
 **awdev1,**  
 [awdevSoftware](https://awdevsoftware.org)  
