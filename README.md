@@ -1,4 +1,5 @@
 # Southwest API
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)]()
 
 A lightweight and modern API designed for the Southwest PTFS Discord Server's backend functionality.  
 Originally created and developed by me (**awdev**), this project represents a **clean and production ready implementation** of scalable API architecture with modular code design unlike most Python based APIs.
@@ -41,8 +42,6 @@ This repository is being publicly released to preserve transparency, recognize *
 
 This project is not intended for commercial use or for integration with airline systems, either virtually or physically.
 
-You are welcome to use, modify, and build upon this code, provided that full and clearly visible credit is given to awdevSoftware.
-
 awdevSoftware assumes no liability for any security issues, damages, or misuse arising from the use of this API.
 Support will not be provided for this repository except in the case of critical security vulnerabilities.
 
@@ -52,7 +51,8 @@ Support will not be provided for this repository except in the case of critical 
 
 ## 💬 Author
 
-**awdev**  
+**awdev1,**  
+[awdevSoftware](https://awdevsoftware.org)  
 Independent Developer & Systems Management
 
 NOTE: 99% of the code is hand written. Nearly none are AI generated.
