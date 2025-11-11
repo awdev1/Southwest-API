@@ -53,7 +53,6 @@ Support will not be provided for this repository except in the case of critical 
 ## 💬 Author
 
 **awdev**  
-[GitHub Profile](https://github.com/awdev1e)  
 Independent Developer & Systems Management
 
 NOTE: 99% of the code is hand written. Nearly none are AI generated.
